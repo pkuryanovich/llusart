@@ -2,7 +2,7 @@
 
 <workspace>
   <project>
-    <path>$WS_DIR$\llusartll.ewp</path>
+    <path>$WS_DIR$\dmacp.ewp</path>
   </project>
   <batchBuild/>
 </workspace>
